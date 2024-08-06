@@ -1,0 +1,8 @@
+com/drmgms/game_installer/twa/LauncherActivity.java
+ com.drmgms.game_installer.twa.LauncherActivity
+com/drmgms/game_installer/twa/Application.java
+ com.drmgms.game_installer.twa.Application
+com/drmgms/game_installer/twa/DelegationService.java
+ com.drmgms.game_installer.twa.DelegationService
+com/drmgms/game_installer/twa/BuildConfig.java
+ com.drmgms.game_installer.twa.BuildConfig

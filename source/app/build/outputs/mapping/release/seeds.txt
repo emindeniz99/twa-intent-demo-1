@@ -1,0 +1,52 @@
+com.drmgms.game_installer.twa.DelegationService
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+com.drmgms.game_installer.twa.DelegationService: DelegationService()
+androidx.core.graphics.drawable.IconCompat: IconCompat()
+androidx.lifecycle.ReflectiveGenericLifecycleObserver
+androidx.browser.browseractions.BrowserActionsFallbackMenuView: BrowserActionsFallbackMenuView(android.content.Context,android.util.AttributeSet)
+androidx.lifecycle.FullLifecycleObserverAdapter
+com.drmgms.game_installer.twa.Application
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+com.google.androidbrowserhelper.trusted.NotificationPermissionRequestActivity: NotificationPermissionRequestActivity()
+com.google.androidbrowserhelper.trusted.WebViewFallbackActivity
+com.drmgms.game_installer.twa.LauncherActivity
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+com.google.androidbrowserhelper.trusted.FocusActivity
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+androidx.annotation.Keep
+com.google.androidbrowserhelper.trusted.ManageDataLauncherActivity
+androidx.lifecycle.CompositeGeneratedAdaptersObserver
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+androidx.lifecycle.SingleGeneratedAdapterObserver
+android.support.v4.graphics.drawable.IconCompatParcelizer
+com.google.androidbrowserhelper.trusted.DelegationService: DelegationService()
+androidx.browser.browseractions.BrowserActionsFallbackMenuView
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.core.app.RemoteActionCompatParcelizer
+com.google.androidbrowserhelper.trusted.WebViewFallbackActivity: WebViewFallbackActivity()
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.core.app.CoreComponentFactory
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.core.graphics.drawable.IconCompatParcelizer
+androidx.browser.trusted.TrustedWebActivityService: TrustedWebActivityService()
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+com.google.androidbrowserhelper.trusted.LauncherActivity: LauncherActivity()
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.versionedparcelable.CustomVersionedParcelable: CustomVersionedParcelable()
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+com.drmgms.game_installer.twa.Application: Application()
+androidx.versionedparcelable.CustomVersionedParcelable
+com.google.androidbrowserhelper.trusted.FocusActivity: FocusActivity()
+android.support.v4.app.RemoteActionCompatParcelizer
+androidx.versionedparcelable.ParcelImpl
+com.google.androidbrowserhelper.trusted.ManageDataLauncherActivity: ManageDataLauncherActivity()
+androidx.core.content.FileProvider
+androidx.core.app.RemoteActionCompat
+com.google.androidbrowserhelper.trusted.NotificationPermissionRequestActivity
+androidx.core.app.RemoteActionCompat: RemoteActionCompat()
+androidx.core.content.FileProvider: FileProvider()
+androidx.core.graphics.drawable.IconCompat
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+com.drmgms.game_installer.twa.LauncherActivity: LauncherActivity()
