@@ -31,6 +31,8 @@ public class LauncherActivity
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        System.out.println("testtapplicatoionnntestttttt333333");
+
         // Setting an orientation crashes the app due to the transparent background on Android 8.0
         // Oreo and below. We only set the orientation on Oreo and above. This only affects the
         // splash screen and Chrome will still respect the orientation.
@@ -47,7 +49,8 @@ public class LauncherActivity
         // Get the original launch Url.
         Uri uri = super.getLaunchingUrl();
 
-        
+        System.out.println("testtapplicatoionnntestttttt5555");
+
 
         return uri;
     }
