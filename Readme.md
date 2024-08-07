@@ -12,3 +12,4 @@ https://medium.com/@solrudev/painless-building-of-an-android-package-installer-a
 You will get SHA-1, SHA-256, and other details
 
 https://stackoverflow.com/questions/42290681/android-studio-only-gives-me-sha1-i-need-sha256
+https://developers.google.com/digital-asset-links/v1/getting-started#quick-usage-example
