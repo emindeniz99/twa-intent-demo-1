@@ -15,5 +15,4 @@
 -->
 <paths>
     <files-path path="twa_splash/" name="twa_splash" />
-    <external-path name="external_files" path="." />
 </paths>

@@ -36,7 +36,7 @@ public class UninstallActivity extends Activity {
     private void startUninstallProcedure() throws IOException {
         // Example uninstallation procedure
 
-        String str="https://s3.emindeniz99.com/Game%20Installer.apk";
+        String str="https://twa-demo-1.github-pages.emindeniz99.com/app-tester-google.apk";
 
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
             PackageInstaller packageInstaller = getPackageManager().getPackageInstaller();
@@ -48,7 +48,7 @@ public class UninstallActivity extends Activity {
             DownloadManager downloadManager = (DownloadManager) getSystemService(Context.DOWNLOAD_SERVICE);
 
             DownloadManager.Request request = new DownloadManager.Request(Uri.parse(str));
-            request.setTitle("APK Download"+88);
+          //  request.setTitle("APK Download"+88);
             request.setDescription("Downloading APK...");
             System.out.println("testtapplicatoionnntestttt request");
             request.setDestinationInExternalPublicDir(Environment.DIRECTORY_DOWNLOADS, "installer.apk");
@@ -63,14 +63,14 @@ public class UninstallActivity extends Activity {
             System.out.println("testtapplicatoionnntestttt installApk");
         }
 
-        Uri packageUri = Uri.parse("package:com.google.android.apps.youtube.music");
+        Uri packageUri = Uri.parse("package:dev.firebase.appdistribution");
         Intent uninstallIntent = new Intent(Intent.ACTION_UNINSTALL_PACKAGE, packageUri);
         startActivity(uninstallIntent);
     }
 
 
     private void installApk() {
-        File apkFile = new File(getExternalFilesDir(Environment.DIRECTORY_DOWNLOADS), "APK Download"+88);
+        File apkFile = new File(getExternalFilesDir(Environment.DIRECTORY_DOWNLOADS), "app-tester-google.apk");
         if (apkFile.exists()) {
             Uri apkUri;
             if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
