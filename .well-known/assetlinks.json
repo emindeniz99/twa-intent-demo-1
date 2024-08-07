@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.drmgms.game_installer.twa",
+      "sha256_cert_fingerprints": [
+        "59:DC:5E:23:2A:8A:38:8C:7E:45:7F:71:AD:BF:DD:A0:F6:75:09:E0:7C:F2:47:86:C3:5C:2D:8D:C9:BA:D4:C8"
+      ]
+    }
+  }
+]
