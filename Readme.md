@@ -16,3 +16,7 @@ https://developers.google.com/digital-asset-links/v1/getting-started#quick-usage
 
 Install and Uninstall Android applications with Intents 
 https://gist.github.com/webserveis/c0d61834232fec7790a4a736813c7b75
+
+todos:
+- [ ] autoVerify https://developer.android.com/training/app-links/verify-android-applinks
+- [ ] 
