@@ -17,17 +17,17 @@
   "theme_color": "#FFFFFF",
   "icons": [
     {
-      "src": "/icons/icon-dreamgames-blue-3d-192x192.png",
+      "src": "/icons/icon-appdist-blue-3d-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/icons/icon-dreamgames-blue-3d-512x512.png",
+      "src": "/icons/icon-appdist-blue-3d-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "icons/icon-dreamgames-blue-3d-maskable.png",
+      "src": "icons/icon-appdist-blue-3d-maskable.png",
       "sizes": "1024x1024",
       "type": "image/png",
       "purpose": "maskable"
@@ -35,14 +35,14 @@
   ],
   "screenshots": [
     {
-      "label": "Dream Games",
-      "src": "/images/dreamgames.webp",
+      "label": "App Dist",
+      "src": "/images/appdist.webp",
       "sizes": "1000x1000",
       "type": "image/webp"
     },
     {
-      "label": "Dream Games",
-      "src": "/images/dreamgames.webp",
+      "label": "App Dist",
+      "src": "/images/appdist.webp",
       "sizes": "1000x1000",
       "form_factor": "wide",
       "type": "image/webp"
