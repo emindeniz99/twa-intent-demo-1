@@ -1,6 +1,6 @@
 
 ```html
-      <a href="intent://example.com/uninstall?packageName=com.drmgms.game_installer.twa#Intent;scheme=https;action=com.drmgms.game_installer.twa.UNINSTALL_APP;package=com.drmgms.game_installer.twa;end">
+      <a href="intent://example.com/uninstall?packageName=com.appdist.game_installer.twa#Intent;scheme=https;action=com.appdist.game_installer.twa.UNINSTALL_APP;package=com.appdist.game_installer.twa;end">
         <button>example. Uninstall App</button>
       </a>
 ```

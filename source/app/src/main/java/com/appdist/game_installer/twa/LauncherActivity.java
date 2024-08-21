@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.drmgms.game_installer.twa;
+package com.appdist.game_installer.twa;
 
 import android.content.pm.ActivityInfo;
 import android.net.Uri;

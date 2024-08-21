@@ -1,4 +1,4 @@
-package com.drmgms.game_installer.twa;
+package com.appdist.game_installer.twa;
 
 import android.app.Activity;
 import android.app.DownloadManager;

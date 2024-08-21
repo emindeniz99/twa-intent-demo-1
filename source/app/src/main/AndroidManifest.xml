@@ -21,7 +21,7 @@
      the abbreviated format. -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.drmgms.game_installer.twa">
+    package="com.appdist.game_installer.twa">
 
 
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
@@ -48,7 +48,7 @@
         android:theme="@android:style/Theme.Translucent.NoTitleBar">
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="com.drmgms.game_installer.twa.fileprovider"
+            android:authorities="com.appdist.game_installer.twa.fileprovider"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data
@@ -59,11 +59,11 @@
         <!-- Activity to handle uninstall requests -->
 
         <activity
-            android:name="com.drmgms.game_installer.twa.UninstallActivity"
+            android:name="com.appdist.game_installer.twa.UninstallActivity"
             android:enabled="true"
             android:exported="true">
             <intent-filter>
-                <action android:name="com.drmgms.game_installer.twa.UNINSTALL_APP" />
+                <action android:name="com.appdist.game_installer.twa.UNINSTALL_APP" />
 
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
