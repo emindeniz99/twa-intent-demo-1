@@ -3,10 +3,10 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.appdist.game_installer.twa",
+      "package_name": "com.emindeniz99.reactnativepwa",
       "sha256_cert_fingerprints": [
-        "59:DC:5E:23:2A:8A:38:8C:7E:45:7F:71:AD:BF:DD:A0:F6:75:09:E0:7C:F2:47:86:C3:5C:2D:8D:C9:BA:D4:C8",
-        "3E:75:81:58:C7:15:08:D5:D3:67:E8:5D:BE:4D:9F:BC:85:9C:8F:A3:5E:D1:E5:55:97:57:07:5B:05:95:7D:37"
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+        "A7:F9:23:A2:2A:C2:A8:EF:76:71:80:B0:E8:77:13:4D:4D:75:2D:F0:2C:04:66:A3:3D:23:3A:94:ED:4B:93:22"
       ]
     }
   }
